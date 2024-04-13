@@ -2,3 +2,7 @@
 .DS_Store
 models/
 runs/
+HW2/data/
+HW2/model.ckpt
+HW2/prediction-copilot.csv
+HW2/prediction.csv
