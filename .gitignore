@@ -6,3 +6,8 @@ HW2/data/
 HW2/model.ckpt
 HW2/prediction-copilot.csv
 HW2/prediction.csv
+HW3_cnn/data
+HW3_cnn/submission*.csv
+HW3_cnn/sample_log.txt
+HW3_cnn/sample_best.ckpt
+HW4_self-attention/data
